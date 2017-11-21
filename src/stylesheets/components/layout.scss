@@ -1,0 +1,40 @@
+#products {
+    padding: 3rem;
+}
+
+header {
+    text-align: center;
+    padding: $padding;
+}
+
+.music {
+    display: inline-block;
+    padding-top: $padding;
+    padding-bottom: $padding;
+    margin: 0.5rem;
+    width: 11rem;
+    .box-image {
+        width: 11rem;
+        height: 9rem;
+        position: relative;
+      }
+    .album-img {
+        width: 8.2rem;
+        margin-left: 1.45rem;
+    }
+    .details {
+        text-align: left;
+        padding-left: 0.5rem;
+        width: 12rem;
+        margin: 0 auto;
+    }
+    .counter {
+        margin-top: 1rem;
+        text-align: center;
+        .thumb-content {
+            .thumbs {
+                width: 1.2rem;
+            }
+        }
+    }
+}

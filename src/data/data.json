@@ -1,0 +1,44 @@
+{
+    "products" : [
+        {
+            "id": "1",
+            "artist": "Muse",
+            "title": "Drones",
+            "img": "http://www.billboard.com/files/media/muse-drones-2015-billboard-650x650.jpg",
+            "date": "2015",
+            "price": "18.99"
+        },
+        {
+            "id": "2",
+            "artist": "Marilyn Manson",
+            "title": "Heaven Upside Down",
+            "img": "https://cdn2.thelineofbestfit.com/images/remote/https_cdn2.thelineofbestfit.com/media/2014/220px-Marilyn_Manson_-_Heaven_Upside_Down.png",
+            "date": "2017",
+            "price": "12.99"
+        },
+        {
+            "id": "3",
+            "artist": "Rihanna",
+            "title": "Anti",
+            "img": "https://images.rapgenius.com/75df500ea6c2f9f6f1f0a40811987eae.750x750x1.jpg",
+            "date": "2016",
+            "price": "15.99"
+        },
+        {
+            "id": "4",
+            "artist": "The Velvet Underground",
+            "title": "The V.U. and Nico",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71H2%2BSj3wmL._SX355_.jpg",
+            "date": "1967",
+            "price": "10.99"
+        },
+        {
+            "id": "5",
+            "artist": "Justice",
+            "title": "Woman",
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Justice_-_Woman_artwork.jpg",
+            "date": "2016",
+            "price": "11.99"
+        }
+    ]
+}
